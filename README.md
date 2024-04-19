@@ -1,2 +1,2 @@
 # countingbot
-discord counting bot for replit
+discord counting bot for replit.com
